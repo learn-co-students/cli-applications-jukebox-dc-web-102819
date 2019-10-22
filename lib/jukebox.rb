@@ -66,6 +66,12 @@ end
 
 def run(songs)
   while true do
+    # puts "♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫"
+    # puts "♫♫ Welcome to DJ Cakehole's Jukebox! ♫♫"
+    # puts "♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫"
+    # puts "\n       ♬♩♫♪             ♬♩♫♪"
+    # puts "\n           ♫♫ d[-_-]b ♫♫"
+    # puts "\n       ♬♩♫♪             ♬♩♫♪\n"
     puts "Please enter a command:"
     command = gets.strip
   
