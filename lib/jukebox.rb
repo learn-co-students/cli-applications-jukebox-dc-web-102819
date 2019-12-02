@@ -1,6 +1,6 @@
 # Add your code here
 require 'pry'
-
+class Blank
 songs = [
   "Phoenix - 1901",
   "Tokyo Police Club - Wait Up",
@@ -61,3 +61,4 @@ def run(songs)
 end
 # end
 
+end
